@@ -7,7 +7,7 @@
 <h3 align="left">Tech stack</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgres,aws" height="40" alt="technologies" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,nodejs,mysql,postgres,aws" height="40" alt="technologies" />
 </div>
 
 <br>
