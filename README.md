@@ -18,4 +18,4 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0d0d0d" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=ffffff" width="100%" alt="footer" />
